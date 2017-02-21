@@ -19,3 +19,7 @@ Install Docker
 ------->>>>>>
 
 # Project starts here ........................................
+# Run docker ps -a to show all containers on the system
+# Output should look like 
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS                      PORTS               NAMES
+ 592376ff3eb8        hello-world         "/hello"            25 seconds ago      Exited (0) 24 seconds ago                   prickly_wozniak
